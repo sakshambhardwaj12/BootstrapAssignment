@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@sakshambhardwaj12 
-shubhamsharma12345
-/
-HtmlBottStrapJs
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-HtmlBottStrapJs/HtmlBootStrap&JavaScripy.html
-@shubhamsharma12345
-shubhamsharma12345 First Commit
-Latest commit 9525e75 5 hours ago
- History
- 1 contributor
-96 lines (79 sloc)  3.16 KB
-  
 <!doctype html>
 <html>
 <head>
